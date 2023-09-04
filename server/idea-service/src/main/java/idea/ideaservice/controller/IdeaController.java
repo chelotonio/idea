@@ -16,7 +16,6 @@ public class IdeaController {
 
     @Autowired
     IdeaService ideaService;
-
     @GetMapping
     public ResponseEntity<List<Idea>> getIdeas() {
         List<Idea> ideas = ideaService.getIdeas();

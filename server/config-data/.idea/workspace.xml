@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ea6ba3c0-fc56-4539-af27-734e2f0e6f2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../idea-service/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comentario-service/src/main/java/idea/comentarioservice/controller/ComentarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comentario-service/src/main/java/idea/comentarioservice/entitie/ComentarioEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comentario-service/src/main/java/idea/comentarioservice/repositorie/ComentarioRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comentario-service/src/main/java/idea/comentarioservice/service/ComentarioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comentario-service/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comentario-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../comentario-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comentario-service/src/main/resources/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config-server/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-server/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../idea-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../idea-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comentario-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pago-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuario-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea-service/src/main/java/idea/ideaservice/controller/IdeaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idea-service/src/main/java/idea/ideaservice/controller/IdeaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea-service/src/main/java/idea/ideaservice/entity/Idea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idea-service/src/main/java/idea/ideaservice/entity/Idea.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +46,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/Marce/OneDrive/Documentos/Estudios/Semestre 8/Self-learn/Proyectos/Idea/server/config-data",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
